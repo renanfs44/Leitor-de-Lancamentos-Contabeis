@@ -1,0 +1,1 @@
+# Leitor-de-Lancamentos-Contabeis
