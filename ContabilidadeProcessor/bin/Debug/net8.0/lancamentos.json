@@ -1,0 +1,51 @@
+[
+  {
+    "Data": "2025-06-01T00:00:00",
+    "Conta": 1234,
+    "Historico": "Compra de papelaria",
+    "Valor": 250.00,
+    "Tipo": "D\u00E9bito"
+  },
+  {
+    "Data": "2025-06-01T00:00:00",
+    "Conta": 4321,
+    "Historico": "Pagamento com cart\u00E3o corporativo",
+    "Valor": 250.00,
+    "Tipo": "Cr\u00E9dito"
+  },
+  {
+    "Data": "2025-06-02T00:00:00",
+    "Conta": 1001,
+    "Historico": "Pagamento de folha de pagamento",
+    "Valor": 12345.67,
+    "Tipo": "D\u00E9bito"
+  },
+  {
+    "Data": "2025-06-02T00:00:00",
+    "Conta": 2002,
+    "Historico": "Transfer\u00EAncia banc\u00E1ria",
+    "Valor": 12345.67,
+    "Tipo": "Cr\u00E9dito"
+  },
+  {
+    "Data": "2025-06-03T00:00:00",
+    "Conta": 3333,
+    "Historico": "Reembolso de despesas (viagem)",
+    "Valor": 780.50,
+    "Tipo": "D\u00E9bito"
+  },
+  {
+    "Data": "2025-06-03T00:00:00",
+    "Conta": 4444,
+    "Historico": "Estorno banc\u00E1rio",
+    "Valor": 780.50,
+    "Tipo": "Cr\u00E9dito"
+  },
+  {
+    "Data": "2025-06-04T00:00:00",
+    "Conta": 5555,
+    "Historico": "Receita extra",
+    "Valor": 1000.00,
+    "Tipo": "Cr\u00E9dito"
+  }
+]

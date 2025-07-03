@@ -1,0 +1,17 @@
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\bin\Debug\net8.0\ContabilidadeProcessor.exe
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\bin\Debug\net8.0\Files\lancamentos.txt
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\bin\Debug\net8.0\README.md
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\bin\Debug\net8.0\ContabilidadeProcessor.deps.json
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\bin\Debug\net8.0\ContabilidadeProcessor.runtimeconfig.json
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\bin\Debug\net8.0\ContabilidadeProcessor.dll
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\bin\Debug\net8.0\ContabilidadeProcessor.pdb
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\obj\Debug\net8.0\ContabilidadeProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\obj\Debug\net8.0\ContabilidadeProcessor.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\obj\Debug\net8.0\ContabilidadeProcessor.AssemblyInfo.cs
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\obj\Debug\net8.0\ContabilidadeProcessor.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\obj\Debug\net8.0\ContabilidadeProcessor.sourcelink.json
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\obj\Debug\net8.0\ContabilidadeProcessor.dll
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\obj\Debug\net8.0\refint\ContabilidadeProcessor.dll
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\obj\Debug\net8.0\ContabilidadeProcessor.pdb
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\obj\Debug\net8.0\ContabilidadeProcessor.genruntimeconfig.cache
+C:\Users\PICHAU\Downloads\Teste-Pr-tico---EI-master\ContabilidadeProcessor\obj\Debug\net8.0\ref\ContabilidadeProcessor.dll

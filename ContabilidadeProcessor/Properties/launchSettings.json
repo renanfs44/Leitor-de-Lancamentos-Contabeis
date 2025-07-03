@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ContabilidadeProcessor": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
